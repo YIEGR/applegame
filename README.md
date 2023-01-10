@@ -5,12 +5,6 @@ Hyper Clova의 API를 이용하여 문장을 교정합니다
 
 train data : Kor-lang8
 ---
-page structure
-
-├── main page
-
-
-│   └── GEC test
 
 [reference]
 
@@ -21,5 +15,11 @@ Kor-lang ; lang8 dataset에서 Korean만 추출한다.
 
 https://github.com/soyoung97/Standard_Korean_GEC
 
+
 ![image](https://user-images.githubusercontent.com/87442649/211485233-c476b2c5-2230-44e4-a9ed-38a8c93dba74.png)
 
+1. Main Page 
+    - Kor-lang8 dataset 교정 결과 확인
+    - ****Kor-lang8 GLEU :0.111959****
+2. GEC test
+    - clova API GEC : 직접 문장을 입력하여 성능을 확인합니다.
