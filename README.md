@@ -4,6 +4,7 @@
 Hyper Clova의 API를 이용하여 문장을 교정합니다
 
 train data : Kor-lang8
+GEC : Grammatic Error Correction
 ---
 
 [reference]
