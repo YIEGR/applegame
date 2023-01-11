@@ -31,7 +31,6 @@ https://github.com/soyoung97/Standard_Korean_GEC
 
 
 
-![image](https://user-images.githubusercontent.com/87442649/211495254-2e8de98e-3734-4b60-b9c9-bea4f3b8b668.png)
 
 ![image](https://user-images.githubusercontent.com/87442649/211495814-8585463f-5836-4b8e-9d16-b948bab18647.png)
 
